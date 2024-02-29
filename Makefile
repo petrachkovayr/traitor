@@ -1,4 +1,4 @@
-
+#Изменения в branch 2 -> LICENSE
 
 .PHONY: build
 build:
