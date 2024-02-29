@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #Изменения в branch 2 -> LICENSE
+=======
+#Изменения в branch 1 -> Makefile
+>>>>>>> branch1
 
 .PHONY: build
 build:

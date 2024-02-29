@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #Изменения в branch 2 -> go.mod
+=======
+#Изменения в branch 1 -> go.mod
+>>>>>>> branch1
 module github.com/liamg/traitor
 
 go 1.18
