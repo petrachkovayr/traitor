@@ -1,4 +1,4 @@
-
+#Изменения в branch 1 -> Makefile
 
 .PHONY: build
 build:
